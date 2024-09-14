@@ -5,6 +5,7 @@ If it's not a bug report or anything directly related to the actual functionalit
 
 ## Discord Server
 Before the creation of the organization and this repository, all community activity happened in the Discord server. If you want to join in on the action and chat with the creator quickly, feel free to join the Discord server.
+Link to the Discord server: https://discord.gg/AVqHrvxB9C
 
 ## Feedback
 Your feedback is very important to us. If you have any concerns or questions, use any of the two methods above to reach out and voice your concerns, feedback. As long as it is constructive and civil, we're all ears!
