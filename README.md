@@ -1,4 +1,4 @@
-![Website Repo Banner](https://github.com/user-attachments/assets/a4218de6-cf41-44f9-b04f-aafa1b221b02)
+![kanri_community_repo_banner](https://github.com/user-attachments/assets/66231147-c446-46de-9a90-a94559ccd14b)
 
 All things about the Kanri community - here you can open discussions or issues to ask questions about the project, the team of contributors or anything related to Kanri!
 
