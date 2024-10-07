@@ -1,4 +1,5 @@
-# Kanri Community Repo
+![Website Repo Banner](https://github.com/user-attachments/assets/a4218de6-cf41-44f9-b04f-aafa1b221b02)
+
 All things about the Kanri community - here you can open discussions or issues to ask questions about the project, the team of contributors or anything related to Kanri!
 
 If it's not a bug report or anything directly related to the actual functionality of the app, it probably belongs here. If you are not sure, open an issue or discussion in the main repository "kanri" and your issue will be moved here if it's better suited to be located in this repo.
